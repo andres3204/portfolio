@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on SDI</title>
+    <link>http://localhost:1313/categories/thoughts/</link>
+    <description>Recent content in Thoughts on SDI</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 10:01:56 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>http://localhost:1313/posts/2024/07/third-post/</link>
+      <pubDate>Thu, 11 Jul 2024 10:01:56 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/third-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>http://localhost:1313/posts/2024/07/second-post/</link>
+      <pubDate>Thu, 11 Jul 2024 09:43:17 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/second-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/2024/07/first-post/</link>
+      <pubDate>Thu, 11 Jul 2024 09:10:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/first-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

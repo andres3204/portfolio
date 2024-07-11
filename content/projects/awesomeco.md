@@ -1,13 +1,11 @@
 ---
 title: "Awesomeco"
 draft: false
+image: //via.placeholder.com/640x150
+alt_text: "Linkitivity screenshot"
+summary: "Summary of the Linkitivity project"
+tech_used:
+- JavaScript
+- CSS
+- HTML
 ---
-![alt](//via.placeholder.com/640x150)
-
-Description...
-
-### Tech used
-
-* HTML
-* JS
-* CSS

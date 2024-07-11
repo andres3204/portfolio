@@ -2,3 +2,21 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'SDI'
 theme = "basic"
+
+[params]
+    author = "Andres Jimenez"
+    description = "This is SDI site"
+
+    gh_url = "https://api.github.com/users"
+    gh_user = "andres3204"
+
+[permalinks]
+  posts = "posts/:year/:month/:slug/"
+  year = "/posts/:slug/"
+  month = "/posts/:slug/"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tag = "tags"
+  category = "categories"
