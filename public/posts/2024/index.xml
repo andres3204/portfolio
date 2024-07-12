@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024 on SDI</title>
-    <link>http://localhost:1313/posts/2024/</link>
+    <link>https://andres3204.com/posts/2024/</link>
     <description>Recent content in 2024 on SDI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2024 15:27:19 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/2024/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andres3204.com/posts/2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Vacation</title>
-      <link>http://localhost:1313/posts/2024/07/my-vacation/</link>
+      <link>https://andres3204.com/posts/2024/07/my-vacation/</link>
       <pubDate>Thu, 11 Jul 2024 15:27:19 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2024/07/my-vacation/</guid>
+      <guid>https://andres3204.com/posts/2024/07/my-vacation/</guid>
       <description></description>
     </item>
     <item>
       <title>Third Post</title>
-      <link>http://localhost:1313/posts/2024/07/third-post/</link>
+      <link>https://andres3204.com/posts/2024/07/third-post/</link>
       <pubDate>Thu, 11 Jul 2024 10:01:56 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2024/07/third-post/</guid>
+      <guid>https://andres3204.com/posts/2024/07/third-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/posts/2024/07/second-post/</link>
+      <link>https://andres3204.com/posts/2024/07/second-post/</link>
       <pubDate>Thu, 11 Jul 2024 09:43:17 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2024/07/second-post/</guid>
+      <guid>https://andres3204.com/posts/2024/07/second-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/2024/07/first-post/</link>
+      <link>https://andres3204.com/posts/2024/07/first-post/</link>
       <pubDate>Thu, 11 Jul 2024 09:10:42 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2024/07/first-post/</guid>
+      <guid>https://andres3204.com/posts/2024/07/first-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
   </channel>

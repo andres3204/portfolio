@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SDI</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://andres3204.com/tags/</link>
     <description>Recent content in Tags on SDI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2024 15:27:19 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andres3204.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Family</title>
-      <link>http://localhost:1313/tags/family/</link>
+      <link>https://andres3204.com/tags/family/</link>
       <pubDate>Thu, 11 Jul 2024 15:27:19 -0400</pubDate>
-      <guid>http://localhost:1313/tags/family/</guid>
+      <guid>https://andres3204.com/tags/family/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://andres3204.com/tags/html/</link>
       <pubDate>Thu, 11 Jul 2024 10:01:56 -0400</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://andres3204.com/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/tags/software/</link>
+      <link>https://andres3204.com/tags/software/</link>
       <pubDate>Thu, 11 Jul 2024 10:01:56 -0400</pubDate>
-      <guid>http://localhost:1313/tags/software/</guid>
+      <guid>https://andres3204.com/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Blue</title>
-      <link>http://localhost:1313/tags/blue/</link>
+      <link>https://andres3204.com/tags/blue/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/blue/</guid>
+      <guid>https://andres3204.com/tags/blue/</guid>
       <description></description>
     </item>
     <item>
       <title>Green</title>
-      <link>http://localhost:1313/tags/green/</link>
+      <link>https://andres3204.com/tags/green/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/green/</guid>
+      <guid>https://andres3204.com/tags/green/</guid>
       <description></description>
     </item>
     <item>
       <title>Red</title>
-      <link>http://localhost:1313/tags/red/</link>
+      <link>https://andres3204.com/tags/red/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/red/</guid>
+      <guid>https://andres3204.com/tags/red/</guid>
       <description></description>
     </item>
   </channel>
