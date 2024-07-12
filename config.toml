@@ -1,4 +1,4 @@
-baseURL = 'https://andres3204.com/'
+baseURL = 'https://sditry.netlify.app'
 languageCode = 'en-us'
 title = 'SDI'
 theme = "basic"
