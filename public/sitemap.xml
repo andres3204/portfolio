@@ -3,24 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-11T10:01:56-04:00</lastmod>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/</loc>
-    <lastmod>2024-07-11T10:01:56-04:00</lastmod>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/07/</loc>
-    <lastmod>2024-07-11T10:01:56-04:00</lastmod>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-07-11T10:01:56-04:00</lastmod>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
-    <lastmod>2024-07-11T10:01:56-04:00</lastmod>
+    <loc>http://localhost:1313/tags/family/</loc>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/month/</loc>
-    <lastmod>2024-07-11T10:01:56-04:00</lastmod>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/07/my-vacation/</loc>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/year/</loc>
+    <lastmod>2024-07-11T15:27:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2024-07-11T10:01:56-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/software/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2024-07-11T10:01:56-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/thoughts/</loc>
-    <lastmod>2024-07-11T10:01:56-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/year/</loc>
     <lastmod>2024-07-11T10:01:56-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/07/second-post/</loc>
@@ -85,6 +91,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+    <lastmod>2020-01-02T12:42:17-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/awesomeco/</loc>
   </url><url>
