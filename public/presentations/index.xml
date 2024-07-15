@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations on SDI</title>
-    <link>https://andres3204.com/presentations/</link>
+    <link>http://localhost:59117/presentations/</link>
     <description>Recent content in Presentations on SDI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jul 2024 13:59:31 -0400</lastBuildDate>
-    <atom:link href="https://andres3204.com/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59117/presentations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Presentation</title>
-      <link>https://andres3204.com/presentations/mysecondpresentation/</link>
+      <link>http://localhost:59117/presentations/mysecondpresentation/</link>
       <pubDate>Wed, 10 Jul 2024 13:59:31 -0400</pubDate>
-      <guid>https://andres3204.com/presentations/mysecondpresentation/</guid>
+      <guid>http://localhost:59117/presentations/mysecondpresentation/</guid>
       <description>&#xA;Description&amp;hellip;&#xA;This is my Second presentation. </description>
     </item>
     <item>
       <title>My First Presentation</title>
-      <link>https://andres3204.com/presentations/myfirstpresentation/</link>
+      <link>http://localhost:59117/presentations/myfirstpresentation/</link>
       <pubDate>Wed, 10 Jul 2024 13:59:25 -0400</pubDate>
-      <guid>https://andres3204.com/presentations/myfirstpresentation/</guid>
+      <guid>http://localhost:59117/presentations/myfirstpresentation/</guid>
       <description>&#xA;Description&amp;hellip;&#xA;This is my presentation. </description>
     </item>
   </channel>

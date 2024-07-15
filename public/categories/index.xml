@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SDI</title>
-    <link>https://andres3204.com/categories/</link>
+    <link>http://localhost:59117/categories/</link>
     <description>Recent content in Categories on SDI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2024 15:27:19 -0400</lastBuildDate>
-    <atom:link href="https://andres3204.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59117/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal</title>
-      <link>https://andres3204.com/categories/personal/</link>
+      <link>http://localhost:59117/categories/personal/</link>
       <pubDate>Thu, 11 Jul 2024 15:27:19 -0400</pubDate>
-      <guid>https://andres3204.com/categories/personal/</guid>
+      <guid>http://localhost:59117/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughts</title>
-      <link>https://andres3204.com/categories/thoughts/</link>
+      <link>http://localhost:59117/categories/thoughts/</link>
       <pubDate>Thu, 11 Jul 2024 10:01:56 -0400</pubDate>
-      <guid>https://andres3204.com/categories/thoughts/</guid>
+      <guid>http://localhost:59117/categories/thoughts/</guid>
       <description></description>
     </item>
   </channel>

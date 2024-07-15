@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Year on SDI</title>
-    <link>https://andres3204.com/year/</link>
+    <link>http://localhost:59117/year/</link>
     <description>Recent content in Year on SDI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2024 15:27:19 -0400</lastBuildDate>
-    <atom:link href="https://andres3204.com/year/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59117/year/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024</title>
-      <link>https://andres3204.com/posts/2024/</link>
+      <link>http://localhost:59117/posts/2024/</link>
       <pubDate>Thu, 11 Jul 2024 15:27:19 -0400</pubDate>
-      <guid>https://andres3204.com/posts/2024/</guid>
+      <guid>http://localhost:59117/posts/2024/</guid>
       <description></description>
     </item>
   </channel>

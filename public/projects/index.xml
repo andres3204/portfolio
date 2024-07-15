@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on SDI</title>
-    <link>https://andres3204.com/projects/</link>
+    <link>http://localhost:59117/projects/</link>
     <description>Recent content in Projects on SDI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://andres3204.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59117/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awesomeco</title>
-      <link>https://andres3204.com/projects/awesomeco/</link>
+      <link>http://localhost:59117/projects/awesomeco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andres3204.com/projects/awesomeco/</guid>
+      <guid>http://localhost:59117/projects/awesomeco/</guid>
       <description>Summary of the Linkitivity project</description>
     </item>
     <item>
       <title>Jabberwocky</title>
-      <link>https://andres3204.com/projects/jabberwocky/</link>
+      <link>http://localhost:59117/projects/jabberwocky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andres3204.com/projects/jabberwocky/</guid>
+      <guid>http://localhost:59117/projects/jabberwocky/</guid>
       <description>Summary of the Linkitivity project</description>
     </item>
     <item>
       <title>Linkitivity</title>
-      <link>https://andres3204.com/projects/linkitivity/</link>
+      <link>http://localhost:59117/projects/linkitivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andres3204.com/projects/linkitivity/</guid>
+      <guid>http://localhost:59117/projects/linkitivity/</guid>
       <description>Summary of the Linkitivity project</description>
     </item>
   </channel>
